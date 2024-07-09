@@ -1,4 +1,4 @@
-I have used a Random Forest algorithm to predict diabetes and, after tuning the hyperparameters, achieved the highest accuracy of 77%. I have also created a Streamlit application to demonstrate this prediction model and calculated the accuracy and oob score.
+I have used a Random Forest algorithm to predict diabetes and, after tuning the hyperparameters, achieved the highest accuracy of 77%. I have also created a Streamlit application to demonstrate this prediction model and calculated the accuracy and oob score. Here is the streamlit share link- https://random-juunfz5noo986gpm2zweaa.streamlit.app/
 
 
 
